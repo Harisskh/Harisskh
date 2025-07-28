@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-🎓 **Computer Science Student** at Institut Teknologi Sumatera  
+🎓 **Informatics Engineering Student** at Institut Teknologi Sumatera  
 💻 **Passionate** about Web Development, Data Analytics, and Machine Learning  
 🌱 **Currently Learning**: Advanced React Patterns, Data Science, AI/ML  
 ⚡ **Fun Fact**: I love turning coffee into code ☕➡️💻
