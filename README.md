@@ -12,17 +12,15 @@
 
 ## 🚀 About Me
 
-```javascript
-const naufal = {
-    name: "Naufal Haris Nurkhoirulloh",
-    location: "Indonesia 🇮🇩",
-    education: "Teknik Informatika - Institut Teknologi Sumatera",
-    focus: ["Web Development", "Data Analytics", "Machine Learning"],
-    currentlyLearning: ["Advanced React Patterns", "Data Science", "AI/ML"],
-    askMeAbout: ["Web Dev", "React", "Node.js", "Data Analysis", "Problem Solving"],
-    funFact: "I love turning coffee into code ☕➡️💻"
-};
-```
+🎓 **Computer Science Student** at Institut Teknologi Sumatera  
+💻 **Passionate** about Web Development, Data Analytics, and Machine Learning  
+🌱 **Currently Learning**: Advanced React Patterns, Data Science, AI/ML  
+⚡ **Fun Fact**: I love turning coffee into code ☕➡️💻
+
+**Focus Areas:**
+- 🌐 Web Development
+- 📊 Data Analytics  
+- 🤖 Machine Learning
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -63,35 +61,17 @@ const naufal = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats & Contributions
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hariskh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariskh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hariskh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariskh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariskh&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariskh&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hariskh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=1&column=7" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🔥 Contribution Snake Animation
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariskh&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -103,26 +83,6 @@ const naufal = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naufalharis/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naufalharisnurkhoirulloh@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hariskh)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Profile Views & Stats
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Hariskh&label=Profile%20views&color=00D9FF&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/Hariskh?label=Followers&style=for-the-badge&color=00D9FF)
-![GitHub Stars](https://img.shields.io/github/stars/Hariskh?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00D9FF)
 
 </div>
 
