@@ -64,14 +64,8 @@
 ## 📊 GitHub Stats & Contributions
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hariskh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariskh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-</a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariskh&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hariskh&show_icons=true&theme=tokyonight&hide_border=true" alt="Naufal's GitHub Stats"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariskh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/><br>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
