@@ -14,8 +14,7 @@
 
 🎓 **Informatics Engineering Student** at Institut Teknologi Sumatera  
 💻 **Passionate** about Web Development, Data Analytics, and Machine Learning  
-🌱 **Currently Learning**: Advanced React Patterns, Data Science, AI/ML  
-⚡ **Fun Fact**: I love turning coffee into code ☕➡️💻
+🌱 **Currently Learning**: Advanced React Patterns, Data Science, AI/ML
 
 **Focus Areas:**
 - 🌐 Web Development
